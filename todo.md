@@ -12,6 +12,8 @@
 ## Network and Security
 - mandatory VPN to cypher all network traffic and easy to pick country
 - Web browser. Mozilla or Brave?
+- Backup Manager
+- Cyphered disks by default
 
 ## Work
 - Office suite
