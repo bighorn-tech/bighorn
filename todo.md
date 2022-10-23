@@ -3,6 +3,7 @@
 - [X] Install a new Fedora 36 KDE Workstation from the ground up
 - [ ] Customize desktop look & feel
 - [ ] List features & Apps
+- [ ] Change logo so that horns move upwards first are not aligned with skull
 
 
 # Features List
@@ -13,7 +14,7 @@
 - mandatory VPN to cypher all network traffic and easy to pick country
 - Web browser. Mozilla or Brave?
 - Backup Manager
-- Cyphered disks by default
+- Encryption at rest by default (can be disabled in custom setup)
 
 ## Work
 - Office suite
